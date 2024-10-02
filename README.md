@@ -1,4 +1,11 @@
-## Hi there 👋
+Bem vindo ao meu perfil! 
+
+Meu nome é Marina 
+
+Sou visitante do Alura
+
+
+https://tenor.com/rNhAev6z5nb.gif
 
 <!--
 **cmslvx/cmslvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
