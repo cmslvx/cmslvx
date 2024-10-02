@@ -2,10 +2,14 @@ Bem vindo ao meu perfil!
 
 Meu nome é Marina 
 
-Sou visitante do Alura
+Estou visitando Alura 
+
+utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos 
+
+![](https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif) 
 
 
-https://tenor.com/rNhAev6z5nb.gif
+
 
 <!--
 **cmslvx/cmslvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
